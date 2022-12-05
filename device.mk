@@ -33,7 +33,7 @@ TARGET_NFC_CHIPSET := none
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
-    $(LOCAL_PATH)/overlay-lineage
+    $(LOCAL_PATH)/overlay-aosp
 
 PRODUCT_PACKAGES += \
     OPlusFrameworksResTarget \
